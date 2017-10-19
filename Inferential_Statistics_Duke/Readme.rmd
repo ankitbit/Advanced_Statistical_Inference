@@ -1,2 +1,3 @@
 ## Important links for the Coursework--
 #R Reference Card https://cran.r-project.org/doc/contrib/Short-refcard.pdf
+https://www.coursera.org/learn/inferential-statistics-intro/resources/GSRvx
