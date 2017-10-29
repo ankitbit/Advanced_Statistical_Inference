@@ -4,6 +4,9 @@
 * Single Variable Calculus (Calculus I): http://tutorial.math.lamar.edu/Classes/CalcI/CalcI.aspx
 * Advanced Single Variable calculus (Calculus II):http://tutorial.math.lamar.edu/Classes/CalcII/CalcII.aspx
 * Multi-variable Calculus (Calculus III): http://tutorial.math.lamar.edu/Classes/CalcIII/CalcIII.aspx  | UCSD lecture series: http://www.math.usm.edu/lambers/mat280/spr10/lectures.html
+* Introduction to Mathematical Statistics:http://statweb.stanford.edu/~susan/courses/s200/
+
+
 
 ### Reference Courses 
 Stanford lectures for Statistics 200: **Introduction to Statistical Inference** :https://stats200.stanford.edu/lectures.html
