@@ -19,3 +19,7 @@ Statistical Inference by George Casella and Roger Berger : https://fsalamri.file
 
 ### Reference Professors
 * Joe Watkins: http://math.arizona.edu/~jwatkins/
+
+### Some good books in Statistics
+* a) http://math.arizona.edu/~jwatkins/statbook.pdf
+* b) http://www.stat.wmich.edu/s160/hcopy/book.pdf
