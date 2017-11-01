@@ -23,3 +23,4 @@ Statistical Inference by George Casella and Roger Berger : https://fsalamri.file
 ### Some good books in Statistics
 * a) http://math.arizona.edu/~jwatkins/statbook.pdf
 * b) http://www.stat.wmich.edu/s160/hcopy/book.pdf
+* b) http://people.math.umass.edu/~lavine/Book/book.pdf
