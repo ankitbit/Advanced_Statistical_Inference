@@ -1,5 +1,6 @@
 # Advanced Statistical Inference
 
+[Recommended Books](http://sgsa.berkeley.edu/current-students/recommended-books)
 ### Pre-Requisites
 * Single Variable Calculus (Calculus I): http://tutorial.math.lamar.edu/Classes/CalcI/CalcI.aspx
 * Advanced Single Variable calculus (Calculus II):http://tutorial.math.lamar.edu/Classes/CalcII/CalcII.aspx
