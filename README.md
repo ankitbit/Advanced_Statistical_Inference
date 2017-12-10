@@ -10,8 +10,8 @@
 
 
 ### Reference Courses 
-Stanford lectures for Statistics 200: **Introduction to Statistical Inference** :https://stats200.stanford.edu/lectures.html
-
+* Stanford lectures for Statistics 200: **Introduction to Statistical Inference** :https://stats200.stanford.edu/lectures.html
+* [Introduction to Statistical Inference](http://www.stat.columbia.edu/~liam/teaching/4107-fall05/)
 
 ### Recommended Textbooks
 Statistical Inference by George Casella and Roger Berger : https://fsalamri.files.wordpress.com/2015/02/casella_berger_statistical_inference1.pdf [     Solutions to the Book: "Statistical Inference" by George Casella and Roger Berger]- http://exampleproblems.com/Solutions-Casella-Berger.pdf
